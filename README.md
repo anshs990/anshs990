@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
 <h3 align="center">💼 Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3><br><br>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p>
     I’m currently working as a Systems Engineer at Wipro, specializing in Application Support. My passion, however, is centered around Data Analysis, where I can use my love for numbers to drive impactful decisions and solve complex challenges.

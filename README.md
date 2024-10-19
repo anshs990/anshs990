@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/4386268.jpg" width="1050" height="400">
+<img src="https://wallpaperaccess.com/full/4386268.jpg" width="1050" height="350">
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
 <h3 align="center">💼 Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3><br><br>
 

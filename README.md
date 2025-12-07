@@ -1,5 +1,5 @@
 <img src="https://wallpaperaccess.com/full/4386268.jpg" width="1050" height="350">
-<h1 align="center">Hi 👋, I'm Shree Ramji</h1>
+<h1 align="center">Hi 👋, I'm Shree Ram</h1>
 <h3 align="center">💼 Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3><br><br>
 
 <img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">

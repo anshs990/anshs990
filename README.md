@@ -1,55 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shree Ramji</h1>
-<h3 align="center">MSc Machine Learning @ QMUL · Multimodal AI Researcher · ex-Fintech Engineer</h3>
-
-<br>
+<h1 align="center">Hi, I'm Shree Ram 👋</h1>
+<h3 align="center">MSc Machine Learning @ QMUL | Multimodal AI | Systems Engineer</h3>
 
 <p align="center">
-  I'm an MSc Machine Learning student at Queen Mary University of London, 
-  building real-time multimodal AI systems that fuse vision, audio, and language. 
-  My background spans 5 years of production software engineering in fintech, 
-  which I now apply toward large-scale model experimentation and deployment.
+Interested in multimodal foundation models, transformer architectures, and scalable machine learning systems.
 </p>
 
-<br>
+---
 
-<h3>🔬 Current Focus</h3>
-<ul>
-  <li>Multimodal foundation models — audio-visual representation learning</li>
-  <li>Dissertation: AI-powered detection of oral health conditions from smartphone images</li>
-  <li>Real-time perception pipelines — reducing latency in modular vision-language systems</li>
-</ul>
+### 🔬 Research Focus
 
-<h3>🚀 Featured Project</h3>
-<ul>
-  <li>
-    <a href="https://github.com/anshs990/GuardianEye-Real-Time-AI-Threat-Intelligence-System">
-      <strong>GuardianEye</strong>
-    </a> — Real-time multimodal threat intelligence system using Gemini Realtime, 
-    YOLO v11, Moondream VLM, and Stream Vision Agents SDK. 
-    Detects weapons and physical threats from live video with sub-second latency.
-  </li>
-</ul>
+- Multimodal Conversational Models (Audio + Vision)
+- Transformer Architectures & Vision Transformers
+- Memory-Augmented Models
+- Model Interpretability & Fairness
+- Real-Time Perception Systems
 
-<h3>🛠 Skills</h3>
-<ul>
-  <li><strong>Deep Learning:</strong> PyTorch, Transformers (ViT, BERT), CNNs, AdamW</li>
-  <li><strong>Computer Vision:</strong> YOLO, OpenCV, object detection, pose estimation</li>
-  <li><strong>ML & Stats:</strong> Supervised learning, model explainability, fairness analysis</li>
-  <li><strong>Systems:</strong> Python, C++, SQL, Bash/Linux, Git, WebRTC</li>
-</ul>
+---
 
-<h3>📬 Connect</h3>
-<p>
-  <a href="https://linkedin.com/in/shreeram07">LinkedIn</a> · 
-  <a href="mailto:s.ramji@se25.qmul.ac.uk">s.ramji@se25.qmul.ac.uk</a>
-</p>
+### 🚀 Selected Projects
 
-<br>
+- **GuardianEye** – Real-time multimodal perception pipeline integrating vision detection and LLM reasoning  
+- **Vision Transformer (PyTorch)** – 12-layer ViT implementation trained on CIFAR-10 (82.7% validation accuracy)  
+- **Medical CV Dissertation** – AI model for oral health condition detection with explainability and fairness analysis  
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshs990&show_icons=true&locale=en&layout=compact&theme=dark" alt="anshs990" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshs990&show_icons=true&locale=en&theme=dark" alt="anshs990" />
-</p>
+### 🛠 Technical Stack
+
+**Deep Learning:** PyTorch, Transformers, CNNs  
+**Computer Vision:** OpenCV, YOLO, Image Classification  
+**Systems:** Python, C++, Linux, Git  
+**ML Evaluation:** Statistical testing, experimental analysis  
+
+---
+
+### 💡 Background
+
+5+ years of experience in backend and systems engineering, including large-scale JVM automation, performance profiling (JProfiler, GC logs, thread dumps), and production system optimisation.
+
+I am particularly interested in bridging large-scale model training with robust, reproducible systems engineering.
+
+---
+
+📫 Contact: s.ramji@se25.qmul.ac.uk  
+🔗 LinkedIn: https://linkedin.com/in/shreeram07
